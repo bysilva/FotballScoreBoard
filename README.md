@@ -10,12 +10,12 @@ Aplicación .NET para windows que muestra el marcador de un partido de futbol, c
 
 # Instalación y uso
 
--Descarga la ultima version de Fotball scoreboard https://github.com/ecode-team/FotballScoreBoard/releases
--Puedes descargar la ultima version de .net framework en caso de no tenerla
--Instalar el software
--Configurar tu transmisión
--Puedes mover el marcador a tu gusto
--Configura tu marcador, diseño color, reloj, etc 
+- Descarga la ultima version de Fotball scoreboard https://github.com/ecode-team/FotballScoreBoard/releases
+- Puedes descargar la ultima version de .net framework en caso de no tenerla
+- Instalar el software
+- Configurar tu transmisión
+- Puedes mover el marcador a tu gusto
+- Configura tu marcador, diseño color, reloj, etc 
 
 ![2021 07 17-15 26](https://user-images.githubusercontent.com/17792863/126048655-4653afb7-50a3-42be-91fb-641ee1b51ba4.png)
 
